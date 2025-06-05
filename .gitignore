@@ -1,0 +1,14 @@
+.vscode
+.DS_Store
+.next
+node_modules
+package-lock.json
+yarn.lock
+*.tgz
+*.zip
+*.tar
+yarn-error.log
+npm-debug.log
+.env
+*.log
+*.local
